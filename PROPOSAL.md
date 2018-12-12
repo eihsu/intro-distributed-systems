@@ -28,22 +28,22 @@ high performance.  Undoubtedly any exposure to any kind of tech is
 beneficial, and there are many good reasons why the front end has been
 emphasized for beginners (opportunities for artistic creativity,
 easily visible accomplishments).  Here the goal is to give some
-exposure to the front end while retaining these same user-friendly qualities.
+exposure to the back end while retaining these same user-friendly qualities.
 
 ## Pitch to Participants
 
 If you have ever saved a document to the cloud, or posted to a social
-media profile, then you have used a distributed system
-built from thousands of individual computers working together to
-process your transaction.  Figuring out the right design to organize a
-system that can handle thousands of users per second, while surviving
-outages and other catastrophes, takes plenty of creativity,
+media profile, or deposited money in an ATM,then you have used a
+distributed system built from thousands of individual computers working
+together to process your transaction.  Figuring out the right design to
+organize a system that can handle thousands of users per second, while
+surviving outages and other catastrophes, takes plenty of creativity,
 investigation, and experimentation.
 
 Whether you are a absolute beginner looking to get your feet wet with
 some programming, or an experienced professional who would like to
 learn more about back-end engineering and the joy of tinkering with
-algorithms to build better and better performance, this is the
+algorithms in search of ever-improving performance, this is the
 experience for you.  Participants will use simple Python code to test
 their distributed system designs under different patterns of
 simulated traffic, and the experience is designed so that
@@ -91,7 +91,6 @@ behind computation, and not just pure coding.
   + Pitch and title should emphasize that experience is for
   beginnners.
 
-
 + Existing distributed environment and concurrency simulations my be
 too complex for learners to navigate and for instructors/mentors to
 support.
@@ -108,10 +107,11 @@ underrepresentation of backend engineers within pool.
 
 + Concurrency is hard!
   + Use a highly simplified deterministic simulator.
+  + Live scoreboard encourages collaboration between learners so
+    cohort as a whole can achieve highest possible throughput without
+    failures!
  
 # Outline of Content
-
-FIXTHIS
 
 [v1](#version-1-single-server)
 
